@@ -1,4 +1,4 @@
-Cloud-Google AppEngine Web Services
+Chatroom 
 
 These web services are for user log in and storing their messages on the chat window to create a basic chat room system.
 HTML body is used to design page.
